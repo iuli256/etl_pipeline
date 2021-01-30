@@ -27,7 +27,7 @@ I createa a star schema optimized for queries on song play analysis. This includ
 <b>time</b> - timestamps of records in songplays broken down into specific units  
 
 The database schema is shown as follows
-![Alt text](images/ER-Diagram.png?raw=true "Title")
+![Alt text](images/ER-Diagram.PNG?raw=true "Title")
 ### Data Warehouse Configurations and Setup
 Create a new IAM user in your AWS account 
 Give it AdministratorAccess and Attach policies  
